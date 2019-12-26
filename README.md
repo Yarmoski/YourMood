@@ -18,3 +18,4 @@ During the development of this application, I learned about working with externa
 - Add a GUI for ease-of-access
 - Integrate the program into a website or mobile application
 - Use a graph + analytics data of user input to allow easier understanding of mood
+- Users + database to store data across devices
